@@ -16,7 +16,7 @@ data:
     - BALENA_HOST_CONFIG_framebuffer_depth: 32
     - BALENA_HOST_CONFIG_framebuffer_ignore_alpha: 1
     - BALENA_HOST_CONFIG_dtparam: "\"i2c_arm=on\",\"spi=on\",\"audio=on\",\"vc4-kms-v3d\""
-  defaultDeviceType: "raspberrypi3"
+  defaultDeviceType: "raspberrypi4-64"
   supportedDeviceTypes:
     - "raspberry-pi"
     - "raspberry-pi2"
